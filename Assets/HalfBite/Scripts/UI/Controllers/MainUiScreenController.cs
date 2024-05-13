@@ -51,7 +51,7 @@ namespace HalfBite.Scripts.UI.Controllers
                 Title = "Second PopUp from Queue",
                 Body = "I'm second!",
                 IsCloseAllButtonActive = false,
-                IsOpenNextButtonActive = false
+                IsOpenNextButtonActive = true
             });      
             
             uiController.OpenInQueue(UiScreens.Info, new InfoUiModel

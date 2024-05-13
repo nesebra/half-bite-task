@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Screens
+  m_EditorClassIdentifier: 
+  m_GroupName: Screens
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 927c50ab798f04f01ac76db59053d7a2
+  m_SerializeEntries:
+  - m_GUID: f59e766ec18d347dcbdab7d566aa9b21
+    m_Address: Main
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 533331d6d2b0f437bb43022a490739d7
+    m_Address: Info
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc499032ba54e4c8496762b359d2ca81, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b7327a75ba2ad41b0bdf48a2a10c5fbf, type: 2}
+    - {fileID: 11400000, guid: 54cb32bcc814a4eab8379af15b6e90b4, type: 2}
